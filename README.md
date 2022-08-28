@@ -6,7 +6,7 @@ Full stack web developer
 
 I've been coding for 5 years. Went to PXL, AI and robotics.
 
-*   🌍  I'm based in Hasselt - Limburg - Beglium
+*   🌍  I'm based in Hasselt - Limburg - Belgium
 *   ✉️  You can contact me at [bknaeps@gmail.com](mailto:bknaeps@gmail.com)
 *   🚀  I'm currently working on [TBA](http://proclamax.be)
 *   🧠  I'm learning Nuxt
