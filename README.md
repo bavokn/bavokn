@@ -25,9 +25,3 @@ Full stack web developer
 
 ### Socials
 <p align="left"> <a href="https://www.github.com/bavokn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bavo-knaeps-45681917b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/bavokn"><img src="https://github-readme-stats.vercel.app/api?username=bavokn&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=Gradient" alt="bavokn's GitHub stats" /></a>
