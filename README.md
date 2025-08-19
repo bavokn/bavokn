@@ -23,5 +23,4 @@ Full stack web developer
                     </p>
                     
 
-### Socials
-<p align="left"> <a href="https://www.github.com/bavokn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bavo-knaeps-45681917b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+![bavokn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bavokn&theme=cobalt&hide_border=false)
